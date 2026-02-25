@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Datos locales (opcional, pero si quieres que otros vean tus datos, no lo pongas aquí)
+# Si quieres subir el Excel, NO pongas la línea de abajo
+# data/
